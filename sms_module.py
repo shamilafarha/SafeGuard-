@@ -12,8 +12,8 @@ import os
 # 4. Open: https://api.telegram.org/botYOUR_TOKEN/getUpdates
 # 5. Find "id" inside "chat" → that is your CHAT_ID
 # 6. Paste both below
-#BOT_TOKEN = "8651170742:AAF920nLRXnSJ7PjGZF4b5Lyssve2qHNr34"
-#CHAT_ID   = "7899340002"
+#BOT_TOKEN = "yyyyy"
+#CHAT_ID   = "xxxxx"
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
 # Additional chat IDs to notify (family/friends)
 # They must first send a message to your bot to get their chat ID
